@@ -1,5 +1,7 @@
 AI Resume Screening & Candidate Ranking System
 
+Live link : https://rank-resume.streamlit.app/
+
 Overview
 
 The AI Resume Screening & Candidate Ranking System is a Streamlit-based web application that helps recruiters automatically screen and rank resumes based on a given job description. It leverages TF-IDF vectorization and cosine similarity to evaluate and rank resumes based on their relevance to the job description.
